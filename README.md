@@ -38,7 +38,7 @@ Antes de começar, você precisará ter instalado em sua máquina:
     yarn install
     ```
 
-4. Crie um arquivo `.env` na raiz do projeto e adicione suas chaves de configuração do Firebase:
+4. Crie um arquivo `firebaseConfig.ts` na raiz do projeto e adicione suas chaves de configuração do Firebase:
 
     ```plaintext
     API_KEY=chave_api
